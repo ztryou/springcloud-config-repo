@@ -4,4 +4,4 @@ server:
     # status 的名称
     #instance-id: test
     prefer-ip-address: true
-myvalue: 123
+myvalue: test
