@@ -1,5 +1,5 @@
 server:
-  port: 8085
+  port: 8080
   instance:
     # status 的名称
     #instance-id: test
